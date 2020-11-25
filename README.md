@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf?ref=badge_shield)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf?ref=badge_large)
