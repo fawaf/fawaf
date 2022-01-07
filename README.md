@@ -1,4 +1,9 @@
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=fawaf)
+
+[![waf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawaf)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawaf)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Hi there 👋
 [about me](https://www.waf.hk/about)
