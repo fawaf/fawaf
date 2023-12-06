@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=fawaf)
 
-[![waf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawaf&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fawaf&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawaf)](https://github.com/anuraghazra/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawaf)
 
 
 ### Hi there 👋
