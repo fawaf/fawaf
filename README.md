@@ -1,6 +1,6 @@
-![](https://komarev.com/ghpvc/?username=fawaf)
+![profile view count](https://komarev.com/ghpvc/?username=fawaf)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fawaf&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fawaf&rank_icon=percentile&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawaf)
 
@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## License
+### License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf?ref=badge_shield)
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffawaf%2Ffawaf?ref=badge_large)
+
+### credits
+
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/antonkomarev/github-profile-views-counter
