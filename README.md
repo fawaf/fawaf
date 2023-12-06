@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=fawaf)
 
-[![waf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawaf)](https://github.com/anuraghazra/github-readme-stats)
+[![waf's GitHub stats](https://github-readme-stats.vercel.app/api?username=fawaf&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fawaf)](https://github.com/anuraghazra/github-readme-stats)
 
